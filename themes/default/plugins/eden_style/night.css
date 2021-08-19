@@ -1,0 +1,393 @@
+body {
+    background-color: #202020;
+}
+
+.panel_contenido_div_1 {
+    background: #202020;
+    border-right: 1px solid #272727;
+}
+
+.panel_contenido_div_2 {
+    background: #181818;
+    border: 1px solid #272727;
+    box-shadow: 0 1px 3px #101010;
+}
+
+.index_footer {
+    background-color: #202020;
+}
+
+.index_foot_sitemap {
+    border-top: 1px solid #272727;
+}
+
+.text_informe {
+    color: #f1f1f1;
+}
+
+.title_text_general h5 {
+    color: #ffffff;
+}
+
+.title_text_general h4 {
+    color: #ffffff;
+}
+
+.gena_input {
+    background: #2d2d2d !important;
+    color: #e8e8e8;
+}
+
+.margin-r {
+    color: #8c8c8c;
+}
+
+.div_tags_text {
+    background: #1d1d1d !important;
+    border-bottom: 1px solid #272727 !important;
+}
+
+.gena_input {
+    background: #1d1d1d !important;
+    border-bottom: 1px solid #272727;
+    border-radius: 3px 3px 0px 0px !important;
+}
+
+.index_input_1:active, .index_input_1:focus {
+    background: #ffffff;
+    box-shadow: 0 2px 3px #6767676b;
+}
+
+.index_wall_confi_box {
+    background: #202020;
+}
+
+header {
+    background: #202020;
+    border-bottom: 1px solid #272727;
+}
+
+.down_menu_asr_div {
+    border-left: 4px solid #202020;
+}
+
+.do_hi {
+    background: #383838;
+    border-left: 4px solid #f5f7fa;
+}
+
+.down_menu_asr_div:active, .down_menu_asr_div:focus, .down_menu_asr_div:hover {
+    color: #3b5ff5;
+    text-decoration: unset;
+    border-radius: 0px;
+    border-left: 4px solid #2196F3;
+    border-top: 1px solid #383838;
+    border-bottom: 1px solid #383838;
+    background: #383838;
+}
+
+.down_menu_asr_div span {
+    color: #f1f1f1;
+}
+
+.down_menu_asr_div_icon svg {
+    color: #f1f1f1 !important;
+}
+
+.div_pro_wall {
+    background: #202020;
+    border-bottom: 1px solid #272727;
+}
+
+.span_ver_div_pro_1 {
+    color: #f1f1f1;
+}
+
+.ver_div_pro_2 {
+    background: #2b2c2e;
+}
+
+.caja_div_pro_wall_das_1 span {
+    color: #fff;
+}
+
+.ver_div_pro_2:active, .ver_div_pro_2:focus, .ver_div_pro_2:hover {
+    background: #2b2c2e;
+    border: 1px solid #313131;
+    border-radius: 25px;
+}
+
+.class_404_me_box {
+    background: #202020;
+    border: 1px solid #262626;
+}
+
+.class_404_me_box_2 {
+    font-size: 12px;
+    color: #ffffff;
+}
+
+.div_list_wall_text_data_p {
+    color: #fff;
+}
+
+.div_list_wall_text_data_p span {
+    color: #2179e9;
+}
+
+.error_class_css {
+    color: #ffffff;
+}
+
+.div_analytic_div_1 {
+    background: #202020;
+}
+
+.title_text_general h6 {
+    color: #fff;
+}
+
+.index_plugi_box {
+    background: #202020;
+    border: 1px solid #272727;
+    box-shadow: 0 1px 3px #101010;
+}
+
+.index_plugi_text_div {
+    border-bottom: 1px solid #272727;
+}
+
+.index_plugi_text_div_1 {
+    color: #fff;
+}
+
+.index_pi_div_text span {
+    color: #bbbbbb;
+}
+
+.index_pi_div_text {
+    color: #ffffff;
+}
+
+.index_plugi_ex_div_2 {
+    background: #181818;
+}
+
+#drop a {
+    background-color: #758eea;
+    color: #ffffff;
+    border-radius: 3px;
+    border: 1px solid #758eea;
+}
+
+.index_plugi_ex_div_1 {
+    background: #202020;
+    border: 1px solid #272727;
+    box-shadow: 0 1px 3px #101010;
+}
+
+.index_link_admin {
+    border: 1px solid #272727;
+}
+
+.url_pages_admin {
+    border: 1px solid #272727;
+}
+
+.index_link_admin_div {
+    border-bottom: 1px solid #272727;
+}
+
+.url_pages_admin {
+    border: 1px solid #272727;
+}
+
+.con_text {
+    color: #1e88e5;
+}
+
+.div_tags_text {
+    border: 1px solid #272727;
+}
+
+.text_infor_post_p {
+    color: #f1f1f1;
+}
+
+.text_infor_post_p span {
+    color: #ffffff;
+}
+
+.margin_t {
+    color: #aaacc7;
+}
+
+.div_tags_text {
+    border: 1px solid #272727;
+}
+
+.index_foot_sitemap_box_t {
+    color: #b3b3b3;
+}
+
+.index_input_1:active, .index_input_1:focus {
+    background: #202020;
+    box-shadow: 0 2px 3px #6767676b;
+}
+
+.index_search {
+    background: #202020;
+    box-shadow: 0 1px 2px #292929;
+}
+
+.div_upload_img {
+    border: 1px solid #33373e;
+    background: #202020;
+    box-shadow: 0 2px 5px #0000000d;
+}
+
+.index_script {
+    background: #202020;
+}
+
+.index_menu_1_ul li {
+    color: #f1f1f1;
+}
+
+.index_menu_1_ul li:active, .index_menu_1_ul li:focus, .index_menu_1_ul li:hover {
+    color: #e4f1f1;
+    background: #272727;
+}
+
+.inbox_panel {
+    background: #202020;
+}
+
+.inbox_panel_box_1 {
+    border-bottom: 1px solid #272727;
+}
+
+.class_404_me p {
+    background: #181818;
+    color: #f1f1f1;
+}
+
+.index_wall_conte_acti_2 {
+    background: #202020;
+}
+
+.line_lesr_box {
+    border-bottom: 1px solid #272727;
+}
+
+.line_lesr_box:hover {
+    border-bottom: 1px solid #272727;
+}
+
+.line_lesr_box_1_text_s {
+    color: #dedede;
+}
+
+.more_btnnn_text {
+    color: #f5f7fa;
+}
+
+.more_btnnn_icon {
+    box-shadow: 0 2px 2px #0000000d;
+}
+
+.line_lesr_box_3 {
+    color: #f1f1f1;
+}
+
+.line_lesr_box_3_div {
+    border-left: 1px solid #272727;
+}
+
+.info_post_wall_text span {
+    color: #fbfbfb;
+}
+
+.list_date_post span {
+    color: #fbfbfb;
+}
+
+.list_date_post svg {
+    color: #fbfbfb;
+}
+
+.info_post_wall:active, .info_post_wall:focus, .info_post_wall:hover {
+    background: #202020;
+    border: 1px solid #0000000f;
+}
+
+.mode_dack {
+    background-color: #2b2c2e;
+}
+
+.div_Publi_e {
+    background: #56c748;
+}
+
+.index_plugi_text_div_2 {
+    background: #56c748;
+}
+
+.update_plugi_box_2:hover, .update_plugi_box_2:active {
+    background: #4385e4;
+}
+
+.update_plugi_box_2 {
+    background: #487ac1;
+}
+
+.panel_contenido_div_2::-webkit-scrollbar-thumb {
+    width: 15px;
+    height: 2px;
+    background: #292d3ec4;
+    border: 1px solid #3e3c4c;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+
+.panel_contenido_div_2::-webkit-scrollbar-track-piece {
+    background-color: #0c0d10;
+}
+
+.index_box_user {
+    background: #1a1a1b;
+    border: 1px solid #272727;
+    box-shadow: -7px 7px 4px #101010;
+}
+
+.index_wat_box_text {
+    color: #1a73e8;
+}
+
+.index_wat_box {
+    border: 1px solid #272727;
+    box-shadow: 0 2px 2px #101010;
+    background: #2b2c2e;
+}
+
+.index_wat_box_icon {
+    background: #1a1a1b;
+}
+
+.index_h5_text {
+    color: #fff;
+}
+
+.index_text_label_1 {
+    color: #ffffff;
+}
+
+.index_page_footer_1_user_text {
+    color: #d8d8d8;
+}
+
+.index_input_1 {
+    background: #202020;
+    border: 1px solid #272727;
+}

@@ -1,0 +1,123 @@
+#upload {
+    background-color: transparent;
+    width: 100%;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: .875rem;
+}
+
+#drop {
+    background-color: #e8f0fe;
+    height: 30%;
+    margin-bottom: 30px;
+    border: 20px solid rgba(0, 0, 0, 0);
+    border-radius: 3px;
+    background-image: url('../images/dragdrop_icon_5.png');
+    background-repeat:  no-repeat;
+    background-position: 50% 45%;
+    background-size: 20%;
+    text-align: center;
+    text-align: -webkit-center;
+    font-size: 16px;
+    color: #7f858a;
+    border: 1px solid #5c9efd;
+    border-radius: 7px;
+    /* border-style: dashed; */
+    padding: 15px 5px;
+    display: grid;
+    /* box-shadow: 0 1px 5px #a5a5a5; */
+}
+
+.box.is-dragover {
+  background-color: grey;
+}
+
+#drop a {
+    background-color: #ffffffd1;
+    text-align: center;
+    width: 70%;
+    padding: 9px 2px;
+    color: #505050;
+    border-radius: 30px;
+    cursor: pointer;
+    display: inline-block;
+    border: 1px solid #758eea;
+    margin: auto;
+    margin-top: 8px;
+    font-weight: 500;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: .875rem;
+}
+
+#drop a:hover {
+    background-color: #fff;
+}
+
+#drop input {
+    display: none;
+}
+
+#upload ul {
+    list-style: none;
+    width: 100%;
+    padding: inherit;
+}
+
+#upload ul li {
+    background-color: #ffffff;
+    width: 100%;
+    color: #373a3d;
+    height: 68px;
+    position: relative;
+    border-radius: .25rem;
+    border: 1px solid #b9bce0;
+    margin-bottom: 2%;
+    box-shadow: 0 1px 3px rgba(0,0,0,.05);
+}
+
+#upload ul li input {
+   
+}
+
+#upload ul li p {
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    color: #5d5656;
+    font-size: 16px;
+    font-weight: bold;
+    position: absolute;
+    padding-left: 2%;
+    top: 10px;
+    text-overflow: ellipsis;
+}
+
+#upload ul li i {
+    font-weight: normal;
+    font-style: normal;
+    color: #7f7f7f;
+    display: block;
+}
+
+#upload ul li canvas {
+    top: 15px;
+    position: absolute;
+}
+ 
+#upload ul li span {
+    width: 15px;
+    height: 12px;
+    background: url('../images/upload_icons.png') no-repeat;
+    position: absolute;
+    top: 27px;
+    right: 33px;
+    cursor: pointer;
+}
+
+#upload ul li.working span {
+    height: 16px;
+    background-position: 0 -12px;
+}
+
+#upload ul li.error p {
+    color: red;
+}
